@@ -4,9 +4,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   Brasileiro, graduando em Engenharia de Computação.
   Desenvolvedor Back-End. 
   <br><br>
-  Second description 
+  Sempre adepto às novas descobertas, aprofundando meus conhecimentos e encarando os desafios. 
   <br><br>
-  <a href="https://www.linkedin.com/in/francisco-lucas-l-93316910b">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/francisco-lucas-l-93316910b">Perfil do LinkedIn</a>
+  <a href="https://github.com/fcolucas">Perfil do Github</a>  
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

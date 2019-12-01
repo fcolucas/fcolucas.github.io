@@ -2,7 +2,16 @@
 
 ---
 
-### Meus Projetos 
+### Habilidades
+
+- Conhecimentos em Java, Python, C
+- Conhecimentos em Desenvolvimento Web com PHP
+- Conhecimentos em banco de dados MySQL
+- Espanhol e Inglês Intermédiário
+
+---
+
+### Meus Projetos
 
 [Consultório Médico](https://github.com/fcolucas/medicina)
 <p>Projeto desenvolvido na disciplina de Banco de Dados que faz controle de receituários entre médicos e pacientes.</p>
@@ -16,15 +25,6 @@
 <p>Projeto desenvolvido em C que usa sockets para realizar operações matemáticas. Uma maneira para aprender os protocolos de rede das camadas TCP/IP.</p>
 
 ---
-
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 

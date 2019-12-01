@@ -3,9 +3,9 @@ logo: "/images/image.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Brasileiro, graduando em Engenharia de Computação.
   Desenvolvedor Back-End. 
-  <br><br>
+  <br>
   Sempre adepto às novas descobertas, aprofundando meus conhecimentos e encarando os desafios. 
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/francisco-lucas-l-93316910b">View My LinkedIn Profile</a>
   
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal

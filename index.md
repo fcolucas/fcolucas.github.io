@@ -2,20 +2,21 @@
 
 ---
 
-### Category Name 1 
+### Meus Projetos 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Consultório Médico](https://github.com/fcolucas/medicina)
+<p>Projeto desenvolvido na disciplina de Banco de Dados que faz controle de receituários entre médicos e pacientes.</p>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Comunicação via Sockets](https://github.com/fcolucas/socketsCommunication)
+<p>Implementação de envio de mensagens via sockets.</p>
 
 ---
+[Operações Matemáticas](https://github.com/fcolucas/projeto_matematico)
+<p>Projeto desenvolvido em C que usa sockets para realizar operações matemáticas. Uma maneira para aprender os protocolos de rede das camadas TCP/IP.</p>
+
+---
+
 
 ### Category Name 2
 
